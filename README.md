@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+page;I'm+a+Self-taught+Cloud+Engineer)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Divine~Onyekwuluje-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-kenechukwu-966ba51b9/)](https://www.linkedin.com/in/chibuike-ukandu-8385401b0/) [![Twitter Badge](https://img.shields.io/badge/-@kenechukwudivi1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kenechukwudivi1)](https://twitter.com/kenechukwudivi1)
+[![Linkedin Badge](https://img.shields.io/badge/-Divine~Onyekwuluje-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-kenechukwu-966ba51b9/)](https://www.linkedin.com/in/divine-kenechukwu-966ba51b/) [![Twitter Badge](https://img.shields.io/badge/-@kenechukwudivi1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kenechukwudivi1)](https://twitter.com/kenechukwudivi1)
 
 
 I am Divine Kenechukwu Onyekwuluje, also addressed by my first name Divine, A motivated Cloud Engineer with a strong aptitude for designing, building, and maintaining cloud infrastructure and services. I'm proficient with AWS, Docker, Kubernetes, Linus, Terraform, Ansible, Bitbucket, Github, Jenkins, FLux, Bash Scripting, Markdown, Golang, Apache2 and NGINX.
