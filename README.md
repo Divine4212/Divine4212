@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+page;I'm+a+Self-taught+Cloud+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+page;I'm+a+Self-taught+Cloud/DevOps+Engineer)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Divine~Onyekwuluje-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-kenechukwu-966ba51b9/)](https://www.linkedin.com/in/divine-kenechukwu-966ba51b9/) [![Twitter Badge](https://img.shields.io/badge/-@kenechukwudivi1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kenechukwudivi1)](https://twitter.com/kenechukwudivi1)
 
