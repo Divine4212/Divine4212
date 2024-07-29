@@ -1,24 +1,24 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+page;I'm+a+Self-taught+Cloud/DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+page;I'm+a+Self-taught+Cloud+DevOps+Engineer)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Divine~Onyekwuluje-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divine-kenechukwu-966ba51b9/)](https://www.linkedin.com/in/divine-kenechukwu-966ba51b9/) [![Twitter Badge](https://img.shields.io/badge/-@kenechukwudivi1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kenechukwudivi1)](https://twitter.com/kenechukwudivi1)
 
 
-I am Divine Kenechukwu Onyekwuluje, also addressed by my first name Divine, A motivated Cloud Engineer with a strong aptitude for designing, building, and maintaining cloud infrastructure and services. I'm proficient with AWS, Docker, Kubernetes, Linus, Terraform, Ansible, Bitbucket, Github, Jenkins, FLux, Bash Scripting, Apache2 and NGINX.
+I am Divine Kenechukwu Onyekwuluje, also addressed by my first name Divine, A motivated Cloud/Devops Engineer with a strong aptitude for designing, building, and maintaining cloud infrastructure and services. I'm proficient with AWS, Docker, Kubernetes, Linus, Terraform, Ansible, Bitbucket, Github, Jenkins, FLux, Bash Scripting, Postgres, Apache2 and NGINX.
 
 As a Cloud/DevOps Engineer, I am committed to the continous improvement on my technical expertise and interpersonal skills to design and Build software solutions that deliver optimal performance within the cloud environment.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🔭 I work with AWS, Docker, Kubernetes, Linux, Terraform, Jenkins...
+- 🔭 I work with AWS, Linux, Terraform, Jenkins, Git...
 - 🔭 I architect and deploy web applications for scalability and user-friendliness within cloud environments.
 - 💼 I'm available for a Cloud Engineering role focused on cloud architecture, infrastructure management, DevOps and cloud-based application development.
 - 💡  I did the Nanodegree program on ALX (Udacity).
-- 🌱 I'm currently learning Python, GCP (Google Cloud Platform) and Microsoft Azure.
-- 😊 I'm seeking assistance with finding internships and entry-level opportunities, as well as potential collaborations related to deploying and managing cloud infrastructure and services. 
-- 💼 Job interests: Cloud Engineer and Cloud Solutions Architect.
+- 🌱 I'm currently learning Python, Prometheus, Grafana, GCP (Google Cloud Platform) and Microsoft Azure.
+- 😊 I'm seeking assistance with finding internships and entry-level or Junior role opportunities, as well as potential collaborations related to deploying and managing cloud infrastructure and services. 
+- 💼 Job interests: Cloud Engineer, Cloud Solutions Architect and Devops.
 - 📫 You can reach out to me via email at divine2142@gmail.com.
 
 ---
